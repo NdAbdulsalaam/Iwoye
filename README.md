@@ -26,4 +26,4 @@ python manage.py createsuperuser
 ```
 
 ## Homegape
-![homepage screenshot](homepage\Capture.JPG)
+![homepage screenshot](homepage/Capture.JPG)
