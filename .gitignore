@@ -14,7 +14,7 @@
 *.pyc
 __pycache__/
 local_settings.py
-staticfiles
+# staticfiles
 media
 
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/
