@@ -177,7 +177,7 @@ ul {
 .dropdown-menu{
   background-color:#007bff;
   color:white;
-  box-shadow: 0 2px 7px #ea2088;
+  box-shadow: 0 2px 7px #007bff;
 }
 .dropdown-item{
   color:white;
@@ -203,7 +203,7 @@ ul {
 }
 
 .article-title {
-  color: #4c23bd;
+  color: #fff;
 }
 
 a.article-title:hover {
