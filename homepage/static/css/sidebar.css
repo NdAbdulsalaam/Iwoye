@@ -17,7 +17,7 @@
     left: 0;
     height: 100vh;
     z-index: 999;
-    background: #007bff; /* Blue background */
+    background: #4169E1; /* Blue background */
     color: #fff; /* White text */
     transition: all 0.3s;
 }
@@ -28,12 +28,12 @@
 
 .sidebar-header {
     padding: 20px;
-    background: #007bff; /* Blue background */
+    background: #4169E1; /* Blue background */
 }
 
 .sidebar-components {
     padding: 20px 0;
-    border-bottom: 1px solid #0056b3; /* Slightly darker blue border */
+    border-bottom: 1px solid #007bff; /* Slightly lighter blue border */
 }
 
 .sidebar-paragraph {  /* Additional white text definition to override any conflicting styles */
@@ -70,7 +70,7 @@ a.right-arrow[data-toggle="collapse"] {
 .sidebar-subitem { /* Sub-menu items under dropdown */
     font-size: 0.9em !important;
     padding-left: 30px !important;
-    background: #0056b3; /* Darker blue for sub-items */
+    background: #007bff; /* Lighter blue for sub-items */
     color: #fff; /* White text */
 }
 
